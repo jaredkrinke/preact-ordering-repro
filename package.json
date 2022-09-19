@@ -1,0 +1,15 @@
+{
+  "name": "preact-ordering-repro",
+  "scripts": {
+    "serve": "parcel serve index.html"
+  },
+  "dependencies": {
+    "preact": "^10.11.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "alias": {
+    "preact/jsx-dev-runtime": "preact/jsx-runtime"
+  }
+}
